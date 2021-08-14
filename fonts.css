@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Tekton Pro";
+   src: url("fonts/TektonPro-Bold.woff") format("woff"), url("fonts/TektonPro-Bold.eot") format("embedded-opentype"), url("fonts/TektonPro-Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Tekton Pro";
+   src: url("fonts/TektonPro-BoldObl.woff") format("woff"), url("fonts/TektonPro-BoldObl.eot") format("embedded-opentype"), url("fonts/TektonPro-BoldObl.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
