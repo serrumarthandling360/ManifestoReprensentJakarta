@@ -60,6 +60,4 @@ HotspotPanoramaOverlayArea_905369B1_9CBF_EB83_41C2_B809D140659C.toolTip = Map Go
 ## Action
 
 ### URL
-LinkBehaviour_A677CF66_9DA9_2881_41BE_3857B9C9546E.source = http://representjkt.com/
-LinkBehaviour_A781FF38_9DA9_2881_41C6_DB89839E4600.source = http://representjkt.com/
 PopupWebFrameBehaviour_923088FD_9CBE_E983_41BA_00E46781E776.url = https://www.google.com/maps/embed?pb=!4v1608946855898!6m8!1m7!1sqTAWOkoSxmR6kbzXPRHqnA!2m2!1d-6.183746130344457!2d106.8295969623349!3f284.7368404589258!4f-5.423243216639918!5f0.4000000000000002
